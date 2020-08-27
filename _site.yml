@@ -1,13 +1,22 @@
-name: "Yay internet!"
+name: "Jingyi Tang"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Jingyi Tang"
+  left:
+    - text: "Education"
+      href: education.html
+    - text: "Work and Internship"
+      href: work.html
+    - text: "Teaching"
+      href: teaching.html
   right:
-    - text: "About"
-      href: about.html
+    - text: "中文版"
+      href: chinese.html
     - icon: fa-envelope fa-lg
       href: mailto:<jt3174@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/jingyi-stats>/
 output:
-  html_document
+  html_document:
+    theme: paper
+    css: 'styles.css'
