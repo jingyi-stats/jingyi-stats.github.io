@@ -1,0 +1,24 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## __Language__
+
+* Chinese: native speaker
+* English: GRE Verbal 162 out of 170 marks
+* Japanese: N2 passed with top 1 percentile
+
+## __Programming__
+
+* R (some familiar packages: tidyverse, ggplot, Bioconductor and so on)
+* OpenBUGS (for Bayesian statistical anzlysis)
+* SAS
+* Minitab
+* Python
+* Microsoft Word 
+* Microsoft PowerPoint
+* Microsoft Excel
+* Microsoft Access
+* Photoshop
+

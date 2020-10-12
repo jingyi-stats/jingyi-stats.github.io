@@ -1,13 +1,17 @@
 ---
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-### __Education__
+## __Education__
 
 ***
 
-#### [<span style = "color:black">**Columbia University in the City of New York**</span>](https://www.columbia.edu)  
+### [<span style = "color:black">**Columbia University in the City of New York**</span>](https://www.columbia.edu)  
 New York City, New York, the United States of America  
 Expecting Graduation at April 2021  
 * __GPA:__ 3.82/4.00
@@ -17,7 +21,7 @@ Expecting Graduation at April 2021
 
 ***
 
-#### [<span style = "color:black">**The University of Iowa**</span>](https://uiowa.edu/)               	   
+### [<span style = "color:black">**The University of Iowa**</span>](https://uiowa.edu/)               	   
 Iowa City, Iowa, the United States of America  
 January 2014 - May 2018  
 * __GPA:__ 3.77/4.00  

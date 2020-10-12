@@ -11,7 +11,7 @@
 
 
 
-<title>index.utf8</title>
+<title>work.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -251,6 +254,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -258,6 +324,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -279,9 +355,6 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="work.html">Work and Internship</a>
-</li>
-<li>
-  <a href="teaching.html">Teaching</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -314,16 +387,48 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p><img src="images/me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left"></p>
-<div id="welcome-to-the-personal-page-of-jingyi-tang" class="section level3">
-<h3><strong>Welcome to the personal page of Jingyi Tang!</strong></h3>
-<p>I am a M.S. candidate in Biostatistics field with a specific interest in cancer genetics studies. Currently, my investigate questions are related to <strong>handling effects</strong> and the <strong>normalization methods</strong> in gastric cancer in The Cancer Genome Atlas Program.</p>
-<p>I graduated from the University of Iowa with a BS in Statistics and a BA in Japanese in 2018. In 2019, I began working toward my M.S. degree in Biostatistics at Columbia University, where I am investigating statistical methods for genetics and other health related fields under the advisement of <a href="https://www.publichealth.columbia.edu/people/our-faculty/pg2113"><span style="color:#4863A0">Dr. Prakash Gorroochurn</span></a> at Columbia University and <a href="https://www.mskcc.org/profile/li-xuan-qin"><span style="color:#4863A0">Dr. Li-xuan Qin</span></a> at Memorial Sloan Kettering Cancer Center. I expect to graduate by May 2021.</p>
-<p>My full resumes in separate pdf files are available in <a href="files/Stats_Jingyi_Tang_resume.pdf"><span style="color:#4863A0">English</span></a> and <a href="files/统计-唐静怡-tangjingyi1995@163.com.pdf"><span style="color:#4863A0">Chinese</span></a>.</p>
+<div id="work-and-internship" class="section level2">
+<h2><strong>Work and Internship</strong></h2>
+<hr />
+<div id="teaching-assistant" class="section level3">
+<h3><strong>Teaching Assistant</strong></h3>
+<p><em>August 2020 – Present</em><br />
+Columbia University in the City of New York, New York City, NY, USA<br />
+* Assist and mentor students in groups and on an individual basis for Introduction to Biostatistical Methods and Relational Databases and SQL Programming * Communicate with students through emails and hold weekly office hours for Q&amp;A sessions as well as review sessions</p>
+<hr />
+</div>
+<div id="research-assistant" class="section level3">
+<h3><strong>Research Assistant</strong></h3>
+<p><em>June 2020 – Present</em><br />
+Memorial Sloan Kettering Cancer Center, New York City, NY, USA * Search, categorize and write literature summary by focused interests in the assigned topics * Work and collaborate on the handling effect and normalization methods of gastric cancer and sarcoma data from TCGA and collaborators * Attend weekly group meetings and communicate with members on related topics * Utilize R mainly with tidyverse, precision, TCGAbiolinks, Bioconductor packages to tidy, normalize and conduct analysis on TCGA dataset</p>
+<hr />
+</div>
+<div id="instructor" class="section level3">
+<h3><strong>Instructor</strong></h3>
+<p><em>January 2019 – Present</em> New Chanel, Changsha, Hunan, China * Taught and facilitated 25-people daily classes and one-to-one individual sessions for GRE verbal courses, A-level courses, and AP courses in Statistics, Mathematics, Calculus, Computer Science and Economics * Aided program director to develop systematic evaluation questions and lesson planning</p>
+<hr />
+</div>
+<div id="data-analyst" class="section level3">
+<h3><strong>Data Analyst</strong></h3>
+<p><em>September 2018 – December 2018</em><br />
+Hunan Television, Changsha, Hunan, China * Analyzed, evaluated and examined data on real-time Nielsen ratings to deliver analysis and reports * Communicated and counseled with customers as well as supervisors on the advised prices predicted by logistic regression model for different commercials * Incorporated R into the data analysis process which enhanced the efficiency by about 20% compared to the old method</p>
+<hr />
+</div>
+<div id="supplemental-instruction-leader" class="section level3">
+<h3><strong>Supplemental Instruction Leader</strong></h3>
+<p><em>August 2016 - May 2018</em> Academic Resource Center, University of Iowa, Iowa City, IA, USA * Mentored and led students to gain a deeper understanding of the subject which resulted in a 0.33 increase in GPA on average * Designed and facilitated the collaborative learning activities for small groups as well as large groups of students for 3 sessions per week during each semester * Assisted the hiring process of perspective Supplemental Instruction leaders by interviewing candidates * Completed monthly and biweekly administrative tasks on a time basis, such as attending meetings and writing a lesson plan</p>
+<hr />
+</div>
+<div id="tippie-learning-coach-lead-tutor" class="section level3">
+<h3><strong>Tippie Learning Coach Lead Tutor</strong></h3>
+<p><em>August 2015 – May 2018</em> Tippie College of Business, University of Iowa, Iowa City, IA, USA * Aided program supervisor, other tutors, and faculty with biweekly outreach communications and meetings * Tailored Tippie Learning Coach experience to be a student-centered academic support program for larger lectures that contained over 300 students each semester * Modified and inspected the regulations for tutors as well as supervisors in the Tippie Learning Coach program * Empowered fellow tutors on redirecting questions and enhancing students’ performance by holding a workshop on the subject * Boosted the performances and grades of tutees</p>
+</div>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -356,6 +461,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
