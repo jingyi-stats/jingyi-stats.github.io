@@ -5,20 +5,24 @@
 
 ## __Language__
 
-* Chinese: native speaker
-* English: GRE Verbal 162 out of 170 marks
-* Japanese: N2 passed with top 1 percentile
+* __Chinese:__ native speaker
+* __English:__ GRE Verbal section scored 162 out of 170 marks
+* __Japanese:__ N2 passed with top 1 percentile
+
+***
 
 ## __Programming__
 
-* R (some familiar packages: tidyverse, ggplot, Bioconductor and so on)
-* OpenBUGS (for Bayesian statistical anzlysis)
-* SAS
-* Minitab
-* Python
-* Microsoft Word 
-* Microsoft PowerPoint
-* Microsoft Excel
-* Microsoft Access
-* Photoshop
+* __R__ 
+  + some familiar packages: tidyverse, ggplot, Bioconductor and so on
+* __OpenBUGS__ 
+  + for Bayesian statistical analysis
+* __SAS__
+* __Minitab__
+* __Python__
+* __Microsoft Word__
+* __Microsoft PowerPoint__
+* __Microsoft Excel__
+* __Microsoft Access__
+* __Photoshop__
 

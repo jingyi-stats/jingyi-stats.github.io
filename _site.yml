@@ -7,6 +7,8 @@ navbar:
       href: education.html
     - text: "Work and Internship"
       href: work.html
+    - text: "Projects"
+      href: projects.html
     - text: "Skills"
       href: skills.html
   right:
