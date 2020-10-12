@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/another_me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 ### Welcome to the personal page of Jingyi Tang!
 
@@ -11,4 +11,4 @@ I am a M.S. candidate in Biostatistics field with a specific interest in cancer 
 
 I graduated from the [University of Iowa](https://www.uiowa.edu/) with a BS in [Statistics](https://www.stat.uiowa.edu/) and a BA in [Japanese](https://www.asian-slavic.uiowa.edu/undergraduate-programs/japanese) in 2018. In 2019, I began working toward my M.S. degree in Biostatistics at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics), where I am investigating statistical methods for genetics and other health related fields under the advisement of [Dr. Prakash Gorroochurn](https://www.publichealth.columbia.edu/people/our-faculty/pg2113) at Columbia University and [Dr. Li-xuan Qin](https://www.mskcc.org/profile/li-xuan-qin) at Memorial Sloan Kettering Cancer Center. I expect to graduate by May 2021.
 
-My full resumes are available in [English](files/Stats_Jingyi_Tang_resume.pdf) and [Chinese](files/统计-唐静怡-tangjingyi1995@163.com.pdf).
+My full resumes in separate pdf files are available in [English](files/Stats_Jingyi_Tang_resume.pdf) and [Chinese](files/统计-唐静怡-tangjingyi1995@163.com.pdf).
