@@ -18,5 +18,5 @@ navbar:
       href: http://github.com/jingyi-stats>/
 output:
   html_document:
-    theme: paper
+    theme: sandstone
     css: 'styles.css'
