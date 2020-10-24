@@ -22,8 +22,19 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -289,9 +300,6 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="chinese.html">中文版</a>
-</li>
-<li>
   <a href="mailto:&lt;jt3174@cumc.columbia.edu&gt;">
     <span class="fa fa-envelope fa-lg"></span>
      
@@ -320,8 +328,11 @@ $(document).ready(function () {
 <p><img src="images/me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left"></p>
 <div id="welcome-to-the-personal-page-of-jingyi-tang" class="section level3">
 <h3><strong>Welcome to the personal page of Jingyi Tang!</strong></h3>
-<p>I am a M.S. candidate in Biostatistics field with a specific interest in cancer genetics studies. Currently, my investigate questions are related to <strong>handling effects</strong> and the <strong>normalization methods</strong> in gastric cancer in The Cancer Genome Atlas Program.</p>
-<p>I graduated from the University of Iowa with a BS in Statistics and a BA in Japanese in 2018. In 2019, I began working toward my M.S. degree in Biostatistics at Columbia University, where I am investigating statistical methods for genetics and other health related fields under the advisement of <a href="https://www.publichealth.columbia.edu/people/our-faculty/pg2113"><span style="color:#4863A0">Dr. Prakash Gorroochurn</span></a> at Columbia University and <a href="https://www.mskcc.org/profile/li-xuan-qin"><span style="color:#4863A0">Dr. Li-xuan Qin</span></a> at Memorial Sloan Kettering Cancer Center. I expect to graduate by May 2021.</p>
+<p>I am a M.S. candidate in Biostatistics field with a specific interest in cancer genetics studies.</p>
+<p>Currently, some of my research projects are related to:<br />
+1) the methods of <strong>handling effects</strong> and the <strong>normalization methods</strong> of <strong>RNA-sequence</strong> and <strong>miRNA</strong> data for gastric cancer in data from the Cancer Genome Atlas Program<br />
+2) <strong>DNA methylation</strong> and <strong>miRNA</strong> data analysis for head and neck cancer from bothe the Cancer Genome Atlas Program and collaborators’ lab data</p>
+<p>I graduated from the University of Iowa with a BS in Statistics and a BA in Japanese in 2018. In 2019, I began working toward my M.S. degree in Biostatistics at Columbia University, where I am investigating statistical methods for genetics and other health related fields under the advisement of <a href="https://www.publichealth.columbia.edu/people/our-faculty/pg2113"><span style="color:#4863A0">Dr. Prakash Gorroochurn</span></a> at Columbia University and <a href="https://www.mskcc.org/profile/li-xuan-qin"><span style="color:#4863A0">Dr. Li-xuan Qin</span></a> at Memorial Sloan Kettering Cancer Center. I also provide biostatistical research assistant in <a href="http://www.heravilab.com/"><span style="color:#4863A0">Dr. Fatemeh Momen-Heravi’s lab</span></a> in <a href="https://cancer.columbia.edu/"><span style="color:#4863A0">Herbert Irving Comprehensive Cancer Center</span></a> with my focused area in DNA methylation data analysis. I expect to graduate by April 2021.</p>
 <p>My full resumes in separate pdf files are available in <a href="files/Stats_Jingyi_Tang_resume.pdf"><span style="color:#4863A0">English</span></a> and <a href="files/统计-唐静怡-tangjingyi1995@163.com.pdf"><span style="color:#4863A0">Chinese</span></a>.</p>
 </div>
 
@@ -334,7 +345,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

@@ -11,6 +11,15 @@ output:
 
 ***
 
+### __Data for Good Scholor__
+__Columbia University in the City of New York, New York City, NY, USA__  
+_October 2020 - Present_  
+• Contribute as a biostatistical research assistant in Dr. Alison Taylor and Dr. Fatemeh Momen-Heravi's lab
+• Tidy, process, analysis and produce visual outputs for DNA methylation and microRNA data from TCGA 
+• Collaborate in the project aims to identify molecular changes such as mutations and RNA signature of head and neck cancer in Black/African American and Hispanic minority populations with the goal of identifying novel therapies for cancer patients and reduce health disparities
+
+***
+
 ### __Teaching Assistant__		 						              	      
 __Columbia University in the City of New York, New York City, NY, USA__  
 _August 2020 – Present_  

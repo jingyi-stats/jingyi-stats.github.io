@@ -7,8 +7,12 @@
 
 ### __Welcome to the personal page of Jingyi Tang!__
 
-I am a M.S. candidate in Biostatistics field with a specific interest in cancer genetics studies. Currently, my investigate questions are related to **handling effects** and the **normalization methods** in gastric cancer in The Cancer Genome Atlas Program.
+I am a M.S. candidate in Biostatistics field with a specific interest in cancer genetics studies.   
 
-I graduated from the University of Iowa with a BS in Statistics and a BA in Japanese in 2018. In 2019, I began working toward my M.S. degree in Biostatistics at Columbia University, where I am investigating statistical methods for genetics and other health related fields under the advisement of [<span style = "color:#4863A0">Dr. Prakash Gorroochurn</span>](https://www.publichealth.columbia.edu/people/our-faculty/pg2113) at Columbia University and [<span style = "color:#4863A0">Dr. Li-xuan Qin</span>](https://www.mskcc.org/profile/li-xuan-qin) at Memorial Sloan Kettering Cancer Center. I expect to graduate by May 2021.
+Currently, some of my research projects are related to:  
+1) the methods of **handling effects** and the **normalization methods** of **RNA-sequence** and **miRNA** data for gastric cancer in data from the Cancer Genome Atlas Program  
+2) **DNA methylation** and **miRNA** data analysis for head and neck cancer from bothe the Cancer Genome Atlas Program and collaborators' lab data
+
+I graduated from the University of Iowa with a BS in Statistics and a BA in Japanese in 2018. In 2019, I began working toward my M.S. degree in Biostatistics at Columbia University, where I am investigating statistical methods for genetics and other health related fields under the advisement of [<span style = "color:#4863A0">Dr. Prakash Gorroochurn</span>](https://www.publichealth.columbia.edu/people/our-faculty/pg2113) at Columbia University and [<span style = "color:#4863A0">Dr. Li-xuan Qin</span>](https://www.mskcc.org/profile/li-xuan-qin) at Memorial Sloan Kettering Cancer Center. I also provide biostatistical research assistant in [<span style = "color:#4863A0">Dr. Fatemeh Momen-Heravi's lab</span>](http://www.heravilab.com/) in [<span style = "color:#4863A0">Herbert Irving Comprehensive Cancer Center</span>](https://cancer.columbia.edu/) with my focused area in DNA methylation data analysis. I expect to graduate by April 2021.
 
 My full resumes in separate pdf files are available in [<span style = "color:#4863A0">English</span>](files/Stats_Jingyi_Tang_resume.pdf) and [<span style = "color:#4863A0">Chinese</span>](files/统计-唐静怡-tangjingyi1995@163.com.pdf).
