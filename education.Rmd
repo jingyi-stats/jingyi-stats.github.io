@@ -19,7 +19,7 @@ Expecting Graduation at April 2021
 
 [<span style = "color:black">_Master of Science, Biostatistics, Statistical Genetics track_</span>](https://www.publichealth.columbia.edu/academics/departments/biostatistics)  
 
-* **Course Highlight:** Data Science I (tidy data), Biostatistical Methods I & II (logistic, linear mixed, lasso regression models), Statistical Inference, Statistical Genetic Modeling (common clustering algorithms), Advanced Statistical and Computational Methods in Genetics and Genomics
+* **Course Highlight:** Data Science I (tidy data), Biostatistical Methods I & II (logistic, linear mixed, and lasso regression models, cross validation), Statistical Inference, Statistical Genetic Modeling (GWAS, PCA, hierarchical clustering, k-means clustering, hierarchical clustering on principle components), Advanced Statistical and Computational Methods in Genetics and Genomics (SKAT, meta-analysis)
 
 ***
 
@@ -35,7 +35,7 @@ January 2014 - May 2018
 
 [<span style = "color:black">_Bachelor of Arts, Asian Language and Studies, Japanese_</span>](https://asian-slavic.uiowa.edu/undergraduate-programs/japanese)   
 
-* **Major GPA:** 4.03      
+* **Major GPA:** 4.03/4.00      
 * **Course Highlight:** Japanese Linguistics, The Tale of Genji, Modern Japanese Literature Translation Workshop (We worked on the translation of one of her fictions, _the Great Outdoors_, with the author, Fujino Kaori in the workshop!)  
 
 P.S. Please follow [<span style = "color:#4863A0">Fujino Kaori</span>](https://en.wikipedia.org/wiki/Kaori_Fujino), an awesome writer and person, on [<span style = "color:#4863A0">twitter</span>](https://twitter.com/fujinono) and [<span style = "color:#4863A0">instagram</span>](https://www.instagram.com/fujinono/?hl=en). 
