@@ -16,7 +16,8 @@ __Herbert Irving Comprehensive Cancer Center, Columbia University in the City of
 _October 2020 - Present_  
 
 * Contribute as a biostatistical research assistant in Dr. Alison Taylor and Dr. Fatemeh Momen-Heravi's lab  
-* Tidy, process, analysis and produce visual outputs for DNA methylation and microRNA data from TCGA   
+* Tidy, process, analysis and produce visual outputs for DNA methylation and microRNA data from TCGA head and neck cancer
+* Utilize PCA, HCPC and GSEA to find miRNA, mRNA and DNA methylation clusters to interpret the function and expression in each cluster
 * Collaborate in the project aims to identify molecular changes such as mutations and RNA signature of head and neck cancer in Black/African American and Hispanic minority populations with the goal of identifying novel therapies for cancer patients and reduce health disparities
 
 ***

@@ -3,9 +3,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## **TEAM PROJECT**  
-
-***
+## **PAST TEAM PROJECT**  
 
 ### **Exploring Vague Priors on a Variance Component in an LME Model**
 
@@ -13,10 +11,16 @@
 * Programmed and test ran in OpenBUGS and R with different priors for the variance component
 * Present the findings in the form of an oral presentation and a written report 
 
-***
-
 ### **Epigenome-wide Association Studies between DNA Methylation and Gastric Adenocarcinoma**
 
 * Tidied and prepared data from The Cancer Genome Atlas database  on Gastric Adenocarcinoma
 * Programmed in R using methods such as Principle Component Analysis to filter noise covariates, K-means Clustering to identify population substructure and association test to explore genes that associate with the onset of gastric cancer
 * Used RMardown to draw conclusions based on the numerical results, deliver the result in visual aids, and interpreted the findings in the project to write a written report
+
+***
+
+## **ONGOING PROJECT**
+
+### **Microarray data normalization methods and their impact on following Machine Learning algorithms**
+
+### **Crosstalk between microRNA expression and DNA methylation in Head and Neck Cancer**

@@ -14,15 +14,17 @@
 ## __Programming__
 
 * __R__ 
-  + some familiar packages: tidyverse, ggplot, Bioconductor and so on
+  + some familiar packages: tidyverse, ggplot2, Bioconductor, pheatmap, rvest and so on
 * __OpenBUGS__ 
   + for Bayesian statistical analysis
 * __SAS__
+* __MATLAB__
 * __Minitab__
 * __Python__
 * __Microsoft Word__
 * __Microsoft PowerPoint__
 * __Microsoft Excel__
 * __Microsoft Access__
+* __Outlook__
 * __Photoshop__
 
